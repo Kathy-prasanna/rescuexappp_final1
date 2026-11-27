@@ -1,0 +1,6 @@
+{
+  "name": "DriveGuard – Vehicle Safety Monitor",
+  "description": "RescueX proof-of-concept automotive HMI for ESP32 and ST LSM6DSO 6-axis IMU accident detection and motion monitoring over BLE.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
